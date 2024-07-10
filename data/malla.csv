@@ -1,4 +1,4 @@
-project;dens_ore;d_hole;burden;spacing;h_hole;s_drilling;stem;h_ bench;blast_width;blast_lenght;interhole_time;std_init_sys;P_wave;UCS;Ts;v;young_mod;n_holes;ccl;m_material
-malla_1;2.55;270;7.5;8.5;15;2;5.5;15;40;35;25;0.5;5;110;6000000;0.24;45;;;
-malla_2;2.55;311;9.1;10.5;15;2;7;15;40;41.5;15;0.2;4;150;7000000;0.24;50;;;
-malla_3;2.55;220;8;9;10;2;4.5;10;40;32;20;1;6;95;8000000;0.24;35;;;
+project;dens_ore;d_hole;burden;spacing;h_hole;s_drilling;stem;h_ bench;blast_width;blast_lenght;interhole_time;std_init_sys;P_wave;UCS;v;young_mod;n_holes;ccl;m_material
+malla_1;2.55;270;7.5;8.5;15;2;5.5;15;40;35;25;0.5;5;110;0.24;45;;;
+malla_2;2.55;311;9.1;10.5;15;2;7;15;40;41.5;15;0.2;4;150;0.24;50;;;
+malla_3;2.55;220;8;9;10;2;4.5;10;40;32;20;1;6;95;0.24;35;;;
